@@ -22,4 +22,4 @@
 ## Onde me encontrar
 
 [![Gmail Badge](https://img.shields.io/badge/-andreskaique1@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:andreskaique1@gmail.com)](mailto:andreskaique1@gmail.com)
-[![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)](https://github.com/KaiqueSandel)
+[![GitHub](https://github.com/KaiqueSandel)
