@@ -13,7 +13,8 @@
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-![Python](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.tshirtgeek.com.br%2Floja%2Fcomputacao%2Fpython%2F&psig=AOvVaw0CaLu-vqoDnnNmDAU7bjfU&ust=1718220306353000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCKDt0smj1IYDFQAAAAAdAAAAABAS)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 
 **Ferramentas de desenvolvimento**
 
